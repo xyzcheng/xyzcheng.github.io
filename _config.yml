@@ -7,7 +7,7 @@
 
 # Site settings
 title: Xyzcheng的博客
-brief-intro: Android Framework Developer
+brief-intro: Android Framework Learner
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://xyzcheng.github.io" # the base hostname & protocol for your site
 
