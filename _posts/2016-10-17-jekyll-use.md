@@ -3,7 +3,7 @@ layout: post
 title:  "jekyll的使用"
 date:   2016-10-17 18:50:20
 categories: Tools
-tags: jekyll
+tags: jekyll ruby github markdown
 ---
 
 * content
