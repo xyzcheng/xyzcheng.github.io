@@ -14,6 +14,10 @@ jekyll是一款免费的blog生成工具，相比于workpress，jekyll不需要�
 
 下面我们就来介绍下如何使用 jekyll + github + markdown编辑工具 来创建自己的blog网站：
 
+
+
+
+
 ## 2 jekyll安装
 注：这里的安装环境是windows，如果是Linux或者mac可以自行百度如何安装
 
