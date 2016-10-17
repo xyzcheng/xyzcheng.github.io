@@ -50,8 +50,7 @@ devkit直接解压到指定目录即可
 3. 查看config.yml文件，如果未添加ruby安装路径，则需要添加  
 	`$ vi config.yml`  
 
-![config](http://115.29.144.199/proj/imgs/blog/blog-jekyll-4.png)  
-
+![config](http://115.29.144.199/proj/imgs/blog/blog-jekyll-4.png)    
 4. 安装和审查  
 	`$ ruby dk.rb install`  
 	`$ ruby dk.rb review`
@@ -169,6 +168,6 @@ markdown非常适合于blog写作，windows下推荐使用 markdownpad，下载�
 
 具体的jekyll主题可能有不同的操作方式，你可以查看对应的说明使用。
 
-## 7 推荐文章
+## 7 参考文章
 
 [如何快速给自己构建一个温馨的"家"——用Jekyll搭建静态博客](http://www.jianshu.com/p/9a6bc31d329d)  
