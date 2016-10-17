@@ -67,7 +67,7 @@ $ gem install jekyll
 解决办法：  
 	`$ gem sources --remove https://rubygems.org/`   
 	`$ gem sources -a http://gems.ruby-china.org/`  
-（网上有说指定https://ruby.taobao.org的，亲测，不好使，据说是因为这个站点在维修中...）
+（网上有说指定https://ruby.taobao.org的，亲测，不好使，据说是因为这个站点在维修中...）  
 	`$ gem sources -l`   
 查看是否已经更换：  
 *** CURRENT SOURCES ***  
@@ -127,13 +127,18 @@ jekyll有很多开源的主题模板，你可以到 [http://jekyllthemes.org/](h
 ## 5 配合github page使用
 github支持jekyll的部署，这样，只要我们将生成的blog目录放到github上并加以配置，就能够像有个人网站那么使用了。
 
-### 5.1 创建github.io仓库
+### 5.1 创建github.io仓库("username"替换成你的github名)
 1. 登录到你的github，如 https://github.com/username
-2. 创建仓库: username.github.io
+2. 创建仓库: username.github.io  
+
+![repo](http://115.29.144.199/proj/imgs/blog/blog-jekyll-6.png)  
 3. 到username.github.io的settings中找到Github Pages
-4. 选择Launch automatic page generator
-5. 到模板界面随便选择一个模板点击确定即可
-6. 
+4. 选择Launch automatic page generator   
+
+![ruby](http://115.29.144.199/proj/imgs/blog/blog-jekyll-8.png)  
+5. 到模板界面随便选择一个模板点击确定即可  
+
+![ruby](http://115.29.144.199/proj/imgs/blog/blog-jekyll-9.png)   
 6. 稍等几分钟，浏览器打开https://username.github.io就可以查看你选择的github page了
 
 ### 5.2 本地测试刚选择的github page
